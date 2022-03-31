@@ -26,9 +26,9 @@ public class Ejercicio9 : MonoBehaviour
         int porcentaje2 = cap2 * 100 / captotal;
         int porcentaje3 = cap3 * 100 / captotal;
         Debug.Log("Se aportaron " + captotal + " pesos en total");
-        Debug.Log("La persona 1 aporto el capital " + cap1 + " pesos. Aporto un " + porcentaje1 + "& del capital");
-        Debug.Log("La persona 2 aporto el capital " + cap2 + " pesos. Aporto un " + porcentaje2 + "& del capital");
-        Debug.Log("La persona 3 aporto el capital " + cap3 + " pesos. Aporto un " + porcentaje3 + "& del capital");
+        Debug.Log("La persona 1 aporto el capital " + cap1 + " pesos. Aporto un " + porcentaje1 + "% del capital");
+        Debug.Log("La persona 2 aporto el capital " + cap2 + " pesos. Aporto un " + porcentaje2 + "% del capital");
+        Debug.Log("La persona 3 aporto el capital " + cap3 + " pesos. Aporto un " + porcentaje3 + "% del capital");
 
     }
 
